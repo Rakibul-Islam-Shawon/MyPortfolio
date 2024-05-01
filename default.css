@@ -241,18 +241,19 @@ h6 { font-size: 16px;}
 
 #preview-shadow{
 	background-color: var(--previewShadow);
-	max-width: 300px;
-	height: 180px;
+	max-width: 425px;
+    height: 230px;
 	padding-left: 30px;
 	padding-top: 30px;
 }
 
 #preview{
-	width: 300px;
+	width: 425px;
 	border:1.5px solid #17a2b8;
 	background-color: var(--previewBg);
 	padding:15px;
 	position: relative;
+	text-align:justify;
 }
 
 .corner{
@@ -291,8 +292,8 @@ h6 { font-size: 16px;}
 	grid-template-columns: repeat();
 	/* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
 	padding-bottom: 50px;
-	padding-top: 50px;
-	gap:100px;
+	padding-top: 5px;
+	gap:20px;
 }
 
 
