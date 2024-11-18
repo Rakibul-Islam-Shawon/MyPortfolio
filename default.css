@@ -412,6 +412,10 @@ footer {
 }
 
 @media screen and (max-width: 800px){
+
+	.s2{
+		text-align: center;
+	}
 	.intro-wrapper{
 		grid-template-columns: 1fr;
 		grid-template-areas: 
