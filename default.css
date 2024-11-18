@@ -427,16 +427,22 @@ footer {
 
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
+	
+	.s2{
+		text-align: center;
+	}
 	#preview-shadow{
 		max-width: 200px;
 		height: 180px;
 		padding-left: 10px;
 		padding-top: 10px;
+		text-align: center;
 	}
 
 	#preview{
 		width: 200px;
+		
 
 	}
 
